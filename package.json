@@ -4,7 +4,7 @@
   "description": "try node.js with using actor model",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/suzydp/nodejs-tryout#readme",
   "dependencies": {
-    "express": "^4.16.4",
-    "vorpal": "^1.12.0"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
   }
 }
