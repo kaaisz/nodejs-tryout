@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-tryout",
+  "version": "1.0.0",
+  "description": "try node.js with using actor model",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzydp/nodejs-tryout.git"
+  },
+  "author": "Kaai Suzuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzydp/nodejs-tryout/issues"
+  },
+  "homepage": "https://github.com/suzydp/nodejs-tryout#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "vorpal": "^1.12.0"
+  }
+}
